@@ -1,5 +1,5 @@
 # mikesportfolio.github.io
-Profile Page Moved <i>https://mikesportfolio.github.io/profile/ <i> 
+Profile Page Moved <a href="https://mikesportfolio.github.io/profile/"><i>https://mikesportfolio.github.io/profile/ <i> </a>
 
 
-<a href="https://mikesportfolio.github.io/profile/"><h2>Profile Page Moved to</h2></a>
+<a href="https://mikesportfolio.github.io/profile/">Profile Page Moved, click here</a>
